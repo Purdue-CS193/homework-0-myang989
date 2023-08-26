@@ -4,7 +4,7 @@
 - Coolest TA's 💪💯🔥 
 - No tests or finals!
 - Learn how to use important tools like Github and Terminal
-- Lecture hall is air conditioned (as opposed to my dorm)
+- Lecture hall is air conditioned (as opposed to my dorm )
 
 
 ### Jekyll Themes
